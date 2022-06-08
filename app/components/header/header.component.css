@@ -1,0 +1,29 @@
+.logo{
+    position:relative;
+    top: 8px;
+    height: 80px;
+    width: 105px;
+    cursor: pointer;
+}
+.header-title{
+    position: relative;
+    top: 40px;
+    left:25px;
+    font-family: "Lucida Grande", Fantasy;
+    font-style: italic;
+    font-size: 64px;
+    color: #FF5733;
+}
+.btnMain{
+    font-size: 20px;
+}
+.btnMain:hover{
+    color: #FF5733;
+}
+.modal-footer button{
+    background-color: #FF5733;
+    color:white
+}
+th{
+    color:#FF5733;
+}
